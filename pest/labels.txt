@@ -1,0 +1,9 @@
+0 Aphids
+1 Armyworm
+2 Beetle
+3 Bollyworm
+4 Grasshopper
+5 Mites
+6 Mosquito
+7 Sawfly
+8 Stem_Borer
